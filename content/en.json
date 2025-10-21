@@ -1,0 +1,154 @@
+{
+  "brand": {
+    "name": "Cinema ONE",
+    "claim": "Content that sells: photo, video & digital ads.",
+    "counters": [
+      {
+        "label": "Clients",
+        "value": "25+"
+      },
+      {
+        "label": "Projects",
+        "value": "80+"
+      },
+      {
+        "label": "Avg. Return",
+        "value": "x3 ROAS"
+      }
+    ]
+  },
+  "hero": {
+    "hook": "What if your content stopped being pretty and started converting?",
+    "cta": {
+      "label": "See the pitch",
+      "href": "#problema"
+    }
+  },
+  "problema": {
+    "bullets": [
+      "SMBs with good products but low digital visibility.",
+      "Content lacks storytelling and social proof.",
+      "Ads without segmentation or data reading."
+    ],
+    "testimonials": [
+      {
+        "quote": "We went from 0 to 120 bookings in 3 weeks.",
+        "author": "Local restaurant"
+      },
+      {
+        "quote": "The video opened a new city for us.",
+        "author": "Auto workshop"
+      }
+    ]
+  },
+  "solucion": {
+    "unique": [
+      "Audiovisual production + performance marketing.",
+      "Hooks and clear CTAs.",
+      "Weekly metric reading and fast iteration."
+    ],
+    "steps": [
+      {
+        "title": "Discovery",
+        "desc": "Brief, goals and brand tone."
+      },
+      {
+        "title": "Production",
+        "desc": "Photo/Video + social design."
+      },
+      {
+        "title": "Acceleration",
+        "desc": "Meta/TikTok ads & optimization."
+      }
+    ]
+  },
+  "mercado": {
+    "segmentos": [
+      "Food",
+      "Beauty & wellness",
+      "Local retail",
+      "Education"
+    ],
+    "validacion": [
+      "Customer surveys",
+      "A/B ad tests",
+      "Retention and CTR analysis"
+    ]
+  },
+  "modelo": {
+    "planes": [
+      {
+        "name": "Start",
+        "price": "$ 800,000",
+        "features": [
+          "1 photo/video session",
+          "2 posts/week",
+          "Basic ads mgmt"
+        ]
+      },
+      {
+        "name": "Grow",
+        "price": "$ 1,600,000",
+        "features": [
+          "2 sessions/month",
+          "4 posts/week",
+          "Weekly optimization"
+        ]
+      },
+      {
+        "name": "Scale",
+        "price": "$ 2,500,000",
+        "features": [
+          "Pro production",
+          "UGC & advanced Ads",
+          "Bi-weekly ROAS report"
+        ]
+      }
+    ]
+  },
+  "ventaja": {
+    "diferenciadores": [
+      "AV team + analytics",
+      "Native hook scripts",
+      "Agile sprints"
+    ],
+    "barreras": [
+      "Own portfolio",
+      "Local market insight",
+      "Documented playbooks"
+    ]
+  },
+  "equipo": {
+    "people": [
+      {
+        "name": "Julián CA",
+        "role": "CEO / Director",
+        "note": "Strategy & creative direction"
+      },
+      {
+        "name": "María R",
+        "role": "Production",
+        "note": "Photo/Video & post"
+      },
+      {
+        "name": "Mateo I",
+        "role": "Ads / Data",
+        "note": "Campaigns, metrics & reporting"
+      }
+    ]
+  },
+  "contacto": {
+    "whatsapp": "https://wa.me/57305406019",
+    "email": "cinemaone2025@gmail.com",
+    "social": [
+      {
+        "label": "Instagram",
+        "href": "https://instagram.com/cinemaonestudio"
+      },
+      {
+        "label": "Portfolio",
+        "href": "https://example.com/portfolio"
+      }
+    ]
+  }
+}

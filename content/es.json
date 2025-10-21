@@ -1,0 +1,154 @@
+{
+  "brand": {
+    "name": "Cinema ONE",
+    "claim": "Contenido que vende: foto, video y campañas digitales.",
+    "counters": [
+      {
+        "label": "Clientes",
+        "value": "25+"
+      },
+      {
+        "label": "Proyectos",
+        "value": "80+"
+      },
+      {
+        "label": "Retorno promedio",
+        "value": "x3 ROAS"
+      }
+    ]
+  },
+  "hero": {
+    "hook": "¿Y si tu contenido dejara de ser bonito para empezar a convertir?",
+    "cta": {
+      "label": "Ver el pitch",
+      "href": "#problema"
+    }
+  },
+  "problema": {
+    "bullets": [
+      "PYMES con buen producto pero baja visibilidad digital.",
+      "Contenido sin narrativa ni prueba social.",
+      "Campañas sin segmentación ni lectura de datos."
+    ],
+    "testimonials": [
+      {
+        "quote": "Pasamos de 0 a 120 reservas en 3 semanas.",
+        "author": "Restaurante local"
+      },
+      {
+        "quote": "El video nos abrió mercado en otra ciudad.",
+        "author": "Taller automotriz"
+      }
+    ]
+  },
+  "solucion": {
+    "unique": [
+      "Producción audiovisual + performance marketing.",
+      "Guiones con ganchos y llamadas a la acción.",
+      "Lectura de métricas semanal y ajustes rápidos."
+    ],
+    "steps": [
+      {
+        "title": "Descubrimiento",
+        "desc": "Brief, objetivos y tono de marca."
+      },
+      {
+        "title": "Producción",
+        "desc": "Foto/Video + diseño para redes."
+      },
+      {
+        "title": "Aceleración",
+        "desc": "Campañas en Meta/TikTok y optimización."
+      }
+    ]
+  },
+  "mercado": {
+    "segmentos": [
+      "Gastronomía",
+      "Belleza y bienestar",
+      "Retail local",
+      "Educación/Academias"
+    ],
+    "validacion": [
+      "Encuestas a clientes frecuentes",
+      "Pruebas A/B en anuncios",
+      "Análisis de retención y CTR"
+    ]
+  },
+  "modelo": {
+    "planes": [
+      {
+        "name": "Start",
+        "price": "$ 800.000",
+        "features": [
+          "1 sesión foto/video",
+          "2 piezas/semana",
+          "Gestión básica anuncios"
+        ]
+      },
+      {
+        "name": "Grow",
+        "price": "$ 1.600.000",
+        "features": [
+          "2 sesiones/mes",
+          "4 piezas/semana",
+          "Optimización semanal"
+        ]
+      },
+      {
+        "name": "Scale",
+        "price": "$ 2.500.000",
+        "features": [
+          "Producción pro",
+          "UGC y Ads avanzados",
+          "Reporte quincenal + ROAS"
+        ]
+      }
+    ]
+  },
+  "ventaja": {
+    "diferenciadores": [
+      "Equipo audiovisual + analítica",
+      "Guiones con hook nativo",
+      "Procesos ágiles (sprints)"
+    ],
+    "barreras": [
+      "Portafolio propio",
+      "Conocimiento local del mercado",
+      "Playbooks documentados"
+    ]
+  },
+  "equipo": {
+    "people": [
+      {
+        "name": "Julián CA",
+        "role": "CEO / Director",
+        "note": "Estrategia y dirección creativa"
+      },
+      {
+        "name": "María R",
+        "role": "Producción",
+        "note": "Foto/Video y post"
+      },
+      {
+        "name": "Mateo I",
+        "role": "Ads / Data",
+        "note": "Campañas, métricas y reporting"
+      }
+    ]
+  },
+  "contacto": {
+    "whatsapp": "https://wa.me/573054046019",
+    "email": "cinemaone2025@gmail.com",
+    "social": [
+      {
+        "label": "Instagram",
+        "href": "https://instagram.com/cinemaonestudio"
+      },
+      {
+        "label": "Portafolio",
+        "href": "https://example.com/portfolio"
+      }
+    ]
+  }
+}
