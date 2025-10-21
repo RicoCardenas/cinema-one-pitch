@@ -1,0 +1,115 @@
+# ----------------------------------------------------------
+# 📦 NODE / BUILD
+# ----------------------------------------------------------
+node_modules/
+dist/
+build/
+.vite/
+vite.config.ts.timestamp-*
+package-lock.json
+
+# ----------------------------------------------------------
+# 🧠 TYPESCRIPT / CACHE
+# ----------------------------------------------------------
+*.tsbuildinfo
+tsconfig.tsbuildinfo
+*.d.ts.map
+
+# ----------------------------------------------------------
+# ⚙️ ENVIRONMENT / SECRETS
+# ----------------------------------------------------------
+.env
+.env.*
+!.env.example
+
+# ----------------------------------------------------------
+# 🧰 EDITOR / IDE
+# ----------------------------------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# ----------------------------------------------------------
+# 🧹 LOGS / DEBUG
+# ----------------------------------------------------------
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+*.log.*
+*.gz
+
+# ----------------------------------------------------------
+# 🧪 TEST / COVERAGE
+# ----------------------------------------------------------
+coverage/
+*.lcov
+jest-cache/
+*.test.ts
+*.spec.ts
+
+# ----------------------------------------------------------
+# 📂 SYSTEM / OS
+# ----------------------------------------------------------
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+*.lnk
+*.tmp
+*.bak
+*.old
+*.orig
+*.swp
+
+# ----------------------------------------------------------
+# ☁️ ONEDRIVE / WINDOWS SHADOW FILES
+# ----------------------------------------------------------
+~$*
+*.tmp
+*.lnk
+*.sync
+*.gdoc
+*.gsheet
+
+# ----------------------------------------------------------
+# 🔧 PROJECT SPECIFIC (Cinema ONE Pitch)
+# ----------------------------------------------------------
+# Local builds and previews
+*.local.json
+*.preview.json
+
+# Temporary cache from vite hot reload
+node_modules/.vite/
+.vite-deps/
+vite.config.ts.timestamp-*
+
+# Content JSON backups or exports
+content/*.bak
+content/*.tmp.json
+
+# ----------------------------------------------------------
+# 🖼️ MEDIA / ASSETS GENERATED
+# ----------------------------------------------------------
+*.webp
+*.avif
+*.mp4
+*.mov
+*.zip
+*.7z
+
+# ----------------------------------------------------------
+# 🧱 OS-LEVEL FILES (Cross platform)
+# ----------------------------------------------------------
+Icon?
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+__MACOSX/
+
+# End of .gitignore
