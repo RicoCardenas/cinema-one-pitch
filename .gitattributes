@@ -1,0 +1,49 @@
+# ----------------------------------------------------------
+# 🌍 NORMALIZACIÓN DE LÍNEAS ENTRE WINDOWS / LINUX / MAC
+# ----------------------------------------------------------
+# Fuerza a Git a convertir todos los finales de línea a LF internamente
+* text=auto eol=lf
+
+# ----------------------------------------------------------
+# 🧠 TIPOS DE ARCHIVOS (EVITAR CONVERSIÓN DE BINARIOS)
+# ----------------------------------------------------------
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.gif binary
+*.webp binary
+*.avif binary
+*.ico binary
+*.mov binary
+*.mp4 binary
+*.zip binary
+*.7z binary
+*.ttf binary
+*.otf binary
+*.woff binary
+*.woff2 binary
+
+# ----------------------------------------------------------
+# 🧱 ARCHIVOS ESPECÍFICOS
+# ----------------------------------------------------------
+# Mantiene scripts y ejecutables con permisos en Linux
+*.sh text eol=lf
+node_modules/.bin/* text eol=lf
+
+# ----------------------------------------------------------
+# ⚙️ CONFIGURACIONES
+# ----------------------------------------------------------
+*.json text eol=lf
+*.ts text eol=lf
+*.tsx text eol=lf
+*.js text eol=lf
+*.jsx text eol=lf
+*.css text eol=lf
+*.scss text eol=lf
+*.html text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.env text eol=lf
+*.gitignore text eol=lf
+*.gitattributes text eol=lf
